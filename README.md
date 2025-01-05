@@ -8,6 +8,4 @@ Atividades de qualidade desenvolvidas em metodologias ágeis.
 
 Os teste do software serão de execução manual tendo o nível de sistema e aceita, utilizando o tipo de teste funcional de caixa preta. 
 
-O projeto será efetuado com base em uma loja virtual.
-
 Espero que gostem!
